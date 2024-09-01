@@ -56,6 +56,7 @@ function Hero() {
                 </a>
             </span>
             <p className={styles.description}>
+        
                 With a passion for developing 
                 modern react web apps for commercal 
                 business.
